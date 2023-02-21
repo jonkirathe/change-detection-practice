@@ -1,0 +1,23 @@
+$border-style: groove;
+$height: 500px;
+.header {
+  height: 40px;
+  background-color: bisque;
+  border-style: $border-style;
+}
+.body {
+  background-color: aliceblue;
+  border-style: $border-style;
+  .tab {
+    height: $height;
+    width: 50%;
+    background-color: aliceblue;
+    border-style: $border-style;
+  }
+}
+
+.footer {
+  height: 40px;
+  background-color: aquamarine;
+  border-style: $border-style;
+}
