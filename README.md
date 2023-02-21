@@ -1,5 +1,9 @@
 # ChangeDetectionPractice
 
+<p align="center">
+  <img src="https://github.com/Jonnykratz/readme-images/blob/main/changeDetection.png?raw=true" alt="eShopKE Demo" width="800" height="500" />
+</p> 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
 ## Development server
